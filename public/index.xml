@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proximity Hamilton</title>
+    <link>http://www.proximityhamilton.com.au/</link>
+    <description>Recent content on Proximity Hamilton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2017 15:36:00 +0530</lastBuildDate>
+    <atom:link href="http://www.proximityhamilton.com.au/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://www.proximityhamilton.com.au/about/</link>
+      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      
+      <guid>http://www.proximityhamilton.com.au/about/</guid>
+      <description>Architecture Information Designed by celebrated Brisbane architects Cottee Parker and built by RCQ Construction, one of Queensland’s most respected construction companies, Proximity Hamilton is a stunning 14-storey, 127-apartment tower in the exclusive Portside Wharf precinct.
+ The building’s design was inspired by its proximity to the Brisbane River, and reflects the ripples created by a semi-submerged object in a flowing stream of water. Proximity&amp;rsquo;s Architectural degisn with the woven-effect balconies and striking vertical aluminium battens deliver an ever-changing façade.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.proximityhamilton.com.au/contact/</link>
+      <pubDate>Wed, 07 Jun 2017 15:36:00 +0530</pubDate>
+      
+      <guid>http://www.proximityhamilton.com.au/contact/</guid>
+      <description>Google Maps Location  37B Harbour Road, Hamilton QLD, 4007 Onsite Office Manager: 9-5pm Monday - Friday</description>
+    </item>
+    
+  </channel>
+</rss>
