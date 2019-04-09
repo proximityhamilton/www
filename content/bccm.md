@@ -7,7 +7,7 @@ disable_comments: true
 
 ---
 
-​	                             Queensland GOVERNMENT        ~        Queensland LEGILATION 
+​	                             Queensland GOVERNMENT        ~        Queensland LEGISLATION 
 
 ![Queensland Crest](https://www.legislation.qld.gov.au/images/qld_coa_color.gif)
 
