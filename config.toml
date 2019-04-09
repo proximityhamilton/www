@@ -39,9 +39,14 @@ canonifyURLs = true
     weight = 10
     
 [[menu.main]]
+    name  = "BCCM"
+    url   = "/bccm/"
+    weight = 20
+
+[[menu.main]]
     name  = "contact"
     url   = "/contact/"
-    weight = 20
+    weight = 30
 
 [params.share]
     enable = false
